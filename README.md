@@ -1,4 +1,4 @@
-# Banco-de-dados-em-SQL-com-API-integrada-a-gina-WEB
+# Banco-de-dados-em-SQL-com-API-integrada-a-pagina-WEB
 Projeto integral de semestral, onde construiremos um banco de dados com uma API integrada a uma página WEB, trazendo com sigo um programa em C para geração de relatórios.
 
 O programa será feito em 4 partes: O banco de dados em SQL; a API em linguagem ainda não definida; o programa em C; e a Página WEB para aplicação e manipulação do banco.
